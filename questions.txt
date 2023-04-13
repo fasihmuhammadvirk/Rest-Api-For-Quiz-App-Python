@@ -1,0 +1,119 @@
+Which of the following is a type of cyber attack that targets Mac Wizard?
+Ransomware
+Adware
+Malware
+Spyware
+
+What is the main goal of a phishing attack?
+To steal sensitive information
+To install malicious software
+To damage computer hardware
+To hijack a computer network
+
+Which of the following is a common way for cyber criminals to distribute malware?
+Email attachments
+Social media posts
+Online gaming platforms
+All of the above
+
+Which of the following is a type of cyber attack that exploits vulnerabilities in software or hardware?
+Denial of service attack
+Man-in-the-middle attack
+SQL injection attack
+Exploit attack
+
+What is the purpose of a firewall in a computer system?
+To block unauthorized access
+To encrypt data transmissions
+To back up data files
+To scan for viruses and malware
+
+Which of the following is a type of cyber attack that can take control of a computer system?
+Trojan horse
+Phishing attack
+Distributed denial-of-service attack
+Social engineering attack
+
+What is the main goal of a ransomware attack?
+To steal sensitive information
+To erase data files
+To block access to data files
+To damage computer hardware
+
+Which of the following is a common way for cyber criminals to distribute phishing emails?
+Spam emails
+Social media messages
+Instant messaging apps
+All of the above
+
+Which of the following is a type of cyber attack that involves stealing passwords or login credentials?
+Brute force attack
+Dictionary attack
+Social engineering attack
+Keylogging attack
+
+What is the purpose of antivirus software in a computer system?
+To prevent cyber attacks
+To detect and remove malware
+To encrypt data transmissions
+To back up data files
+
+Which of the following is a type of cyber attack that uses a fake website to steal sensitive information?
+Phishing attack
+Man-in-the-middle attack
+DNS spoofing attack
+Social engineering attack
+
+What is the main goal of a social engineering attack?
+To install malicious software
+To steal sensitive information
+To block access to data files
+To damage computer hardware
+
+Which of the following is a type of cyber attack that floods a computer system with traffic to overwhelm it?
+Denial of service attack
+Man-in-the-middle attack
+SQL injection attack
+Exploit attack
+
+Which of the following is a common way for cyber criminals to distribute malware through email?
+Email attachments
+Email links
+Email text
+All of the above
+
+What is the purpose of a virtual private network (VPN) in a computer system?
+To block unauthorized access
+To encrypt data transmissions
+To back up data files
+To scan for viruses and malware
+
+Which of the following is a type of cyber attack that intercepts data transmissions between two parties?
+Man-in-the-middle attack
+Brute force attack
+SQL injection attack
+Social engineering attack
+
+What is the main goal of a brute force attack?
+To steal sensitive information
+To block access to data files
+To damage computer hardware
+To guess passwords or login credentials
+
+Which of the following is a type of cyber attack that uses fake messages or notifications to trick users into taking action?
+Social engineering attack
+Denial of service attack
+DNS spoofing attack
+Exploit attack
+
+What is the purpose of two-factor authentication in a computer system?
+To prevent cyber attacks
+To encrypt data transmissions
+To back up data files
+To add an extra layer of security to user login credentials
+
+Which of the following is a type of cyber attack that uses a malicious code to gather sensitive information from a computer system without the user's knowledge?
+Adware
+Ransomware
+Spyware
+Malware
